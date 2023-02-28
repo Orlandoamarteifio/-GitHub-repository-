@@ -81,7 +81,10 @@ __________________________________________________|_____________________________
 
 
 
-Tasks 📃
+                                                    Tasks 📃
+
+
+
 0. New node
 0-binary_tree_node.c: C function that creates a binary tree node with a given parent and value.
 Returns a pointer to the new node, or NULL on failure.
