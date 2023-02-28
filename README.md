@@ -1,19 +1,35 @@
 ____________________________________binary_trees__________________________________________
 
 
+
 I               Tests ✔️
 Tester: Folder of test files for all tasks. Provided by ALX.
+
+
+
 II              Helper File 🙌
+
+
+
 III             Header File 📁
+
+
+
 IV            binary_trees.h: Header file containing definitions and prototypes for all types and functions written for the project.
 
 
 
 Function                                                           Prototypes
 _______________________________________________________________________________________________________________________________________________________
-File	                                          | Prototype                                                                                          |
+                                                  |                                                                                                    |
+                                                  |                                                                                                    |
+                   FILE	                          |                                      PROTOTYPE                                                     |
+                                                  |                                                                                                    |
 __________________________________________________|____________________________________________________________________________________________________|
-binary_tree_print.c	                          | void binary_tree_print(const binary_tree_t *tree)                                                  |
+                                                  |                                                                                                    |
+                                                  |                                                                                                    |
+binary_tree_print.c				  | void binary_tree_print(const binary_tree_t *tree)                                                  |
+                                                  |                                                                                                    |
 __________________________________________________|____________________________________________________________________________________________________|
 0-binary_tree_node.c	                          | binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);                                 |
 __________________________________________________|____________________________________________________________________________________________________|
@@ -204,4 +220,4 @@ Searching for a node in a binary heap of size n.
 
 
 Author
-Orlando Amarteifio
+Orlando Amarteifio.
